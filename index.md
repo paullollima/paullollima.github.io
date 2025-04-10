@@ -131,4 +131,4 @@ Zona Industrial Norte, Joinville - SC, Brazil
 <br>
 CEP: 89.219-710 
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://labicom-udesc.github.io/img/logo1.png" alt="labp2d Logo" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://paullollima.github.io/img/logo1.png" alt="labp2d Logo" /></p>
