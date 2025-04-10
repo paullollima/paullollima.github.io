@@ -1,4 +1,4 @@
-# LABICOM
+# em fase de testes
 
 <p>Aqui eu descrevo as informações referentes ao site do labp2d (<a href="http://dgp.cnpq.br/dgp/espelhogrupo/1009940682265084" target="_blank" rel="noopener">COCA</a>) Continuando as descriçoes conforme necessario e fazendo as referencias com sites linkadoos(<a href="https://www.udesc.br/cct/ppgca" target="_blank" rel="noopener">PPGCA</a>) da Universidade do Estado de Santa Catarina (<a href="https://www.udesc.br/cct" target="_blank" rel="noopener">UDESC</a>, Joinville - SC, Brasil).
 <br>
@@ -6,7 +6,7 @@
 <br>
 Dentro deste paragrafo so foi traduzido o texto anterior sem as referencias dos links.</p>
 
-## People
+## muda tudo
 
 <ul>
 <li>Rafael Stubs Parpinelli (Head/Coordinator)
