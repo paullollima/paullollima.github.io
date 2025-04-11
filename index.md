@@ -1,6 +1,7 @@
-# em fase de testes
+# LabP2D
 
-<p>Aqui eu descrevo as informações referentes ao site do labp2d (<a href="http://dgp.cnpq.br/dgp/espelhogrupo/1009940682265084" target="_blank" rel="noopener">COCA</a>) Continuando as descriçoes conforme necessario e fazendo as referencias com sites linkadoos(<a href="https://www.udesc.br/cct/ppgca" target="_blank" rel="noopener">PPGCA</a>) da Universidade do Estado de Santa Catarina (<a href="https://www.udesc.br/cct" target="_blank" rel="noopener">UDESC</a>, Joinville - SC, Brasil).
+<p>Criado em Julho de 2013, o Laboratório de Processamento Paralelo e Distribuído (LabP2D) oferece recursos humanos e materiais para realização de atividades de pesquisa, ensino e extensão. Os serviços oferecidos e pesquisas realizadas no LabP2D tem como temas principais o gerenciamento de Nuvens Computacionais, Névoa Computacional, Internet das Coisas e Programação Paralela. Atualmente, o LabP2D possui uma nuvem computacional privada, baseada em OpenStack, que hospeda diversos projetos de outros departamentos da instituição. Ainda, parcerias institucionais entre grupos de pesquisa brasileiros e franceses utilizam a nuvem para realização de experimentos.
+  
 <br>
 <hr>
 <br>
