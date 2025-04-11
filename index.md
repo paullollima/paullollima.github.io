@@ -129,7 +129,7 @@ Several projects developed at LABICOM have source code available to download in 
 
 ## Address
 
-Laboratório de Pesquisa em Inteligência Computacional - LABICOM
+Laboratório de Processamento Paralelo e Distribuído  - LabP2D
 <br>
 CCT-UDESC
 <br>
