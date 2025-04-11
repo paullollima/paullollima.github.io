@@ -1,13 +1,20 @@
 # LabP2D
 
 <p>Criado em Julho de 2013, o Laboratório de Processamento Paralelo e Distribuído (LabP2D) oferece recursos humanos e materiais para realização de atividades de pesquisa, ensino e extensão. Os serviços oferecidos e pesquisas realizadas no LabP2D tem como temas principais o gerenciamento de Nuvens Computacionais, Névoa Computacional, Internet das Coisas e Programação Paralela. Atualmente, o LabP2D possui uma nuvem computacional privada, baseada em OpenStack, que hospeda diversos projetos de outros departamentos da instituição. Ainda, parcerias institucionais entre grupos de pesquisa brasileiros e franceses utilizam a nuvem para realização de experimentos.
-  
 <br>
 <hr>
 <br>
-Dentro deste paragrafo so foi traduzido o texto anterior sem as referencias dos links.</p>
+</p>
 
-## muda tudo
+## Nossa Missão
+<p>
+  Pesquisar e desenvolver projetos nas áreas de Nuvens Computacionais, Névoas Computacionais, Internet das Coisas, Sistemas Distribuídos e Programação Paralela.
+</p>
+
+## Nosso Grupo
+<p>
+  O LabP2D é composto de professores e alunos, graduandos e mestrandos, unidos pelo interesse em solucionar problemas nas áreas de pesquisa do LabP2D.
+</p>
 
 <ul>
 <li>Rafael Stubs Parpinelli (Head/Coordinator)
