@@ -1,7 +1,8 @@
-# LabP2D
+# LABP2D
 <p>Criado em Julho de 2013, o Laboratório de Processamento Paralelo e Distribuído (LabP2D) oferece recursos humanos e materiais para realização de atividades de pesquisa, ensino e extensão. Os serviços oferecidos e pesquisas realizadas no LabP2D tem como temas principais o gerenciamento de Nuvens Computacionais, Névoa Computacional, Internet das Coisas e Programação Paralela. Atualmente, o LabP2D possui uma nuvem computacional privada, baseada em OpenStack, que hospeda diversos projetos de outros departamentos da instituição. Ainda, parcerias institucionais entre grupos de pesquisa brasileiros e franceses utilizam a nuvem para realização de experimentos.
 <br>
 <hr>
+<br>
 </p>
 
 ## Nossa Missão
@@ -18,7 +19,7 @@
 <ul>
 <li>Guilherme Piêgas Koslovski (Coordenador)
 <ul><li>
-<a href="http://lattes.cnpq.br/2749773427704993" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0003-4936-1619" target="_blank" rel="noopener">ORCID Code</a> - <a href="" target="_blank" rel="noopener">ResearcherID</a> - <a href="" target="_blank" rel="noopener">Scopus ID</a> - <a href="" target="_blank" rel="noopener">Google Scholar</a> - <a href="" target="_blank" rel="noopener">ResearchGate</a> - <a href="" target="_blank" rel="noopener">dblp</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
+<a href="http://lattes.cnpq.br/2749773427704993" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0003-4936-1619" target="_blank" rel="noopener">ORCID Code</a> - <a href="" target="_blank" rel="noopener">ResearcherID</a> - <a href="" target="_blank" rel="noopener">Scopus ID</a> - <a href="" target="_blank" rel="noopener">Google Scholar</a> - <a href="" target="_blank" rel="noopener">ResearchGate</a> - <a href="" target="_blank" rel="noopener">dblp</a> - <a href="mailto:guilherme.koslovski@udesc.br">Email</a>
 </li></ul>
 </li>
 </ul>
