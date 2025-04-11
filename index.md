@@ -14,8 +14,9 @@
   O LabP2D é composto de professores e alunos, graduandos e mestrandos, unidos pelo interesse em solucionar problemas nas áreas de pesquisa do LabP2D.
 </p>
 
+#People
 <ul>
-<li>Rafael Stubs Parpinelli (Head/Coordinator)
+<li>Guilherme Piêgas Koslovski (Coordenador)
 <ul><li>
 <a href="http://lattes.cnpq.br/4456007001373501" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7326-5032" target="_blank" rel="noopener">ORCID Code</a> - <a href="http://www.researcherid.com/rid/R-7281-2019" target="_blank" rel="noopener">ResearcherID</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=6508048317" target="_blank" rel="noopener">Scopus ID</a> - <a href="https://scholar.google.com.br/citations?user=C02L7R0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Rafael_Parpinelli" target="_blank" rel="noopener">ResearchGate</a> - <a href="https://dblp.uni-trier.de/pers/hd/p/Parpinelli:Rafael_S=" target="_blank" rel="noopener">dblp</a> - <a href="mailto:rafael.parpinelli@udesc.br">Email</a>
 </li></ul>
