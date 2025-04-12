@@ -75,6 +75,7 @@
 
 
 <br>
+
 ## Projetos Relacionados
 
 <p>Os projetos de pesquisa se estruturam em torno dos seguintes eixos temáticos, sem se restringir a eles:</p>
@@ -92,13 +93,13 @@
 </ul>
 
 ## Parceiros
-
+<ul>
 <p> </p>
-
 </ul>
 
 ## Recursos do Laboratório
 
+<ul>
 <li title="" data-original-title=""></li>
 <li title="" data-original-title=""></li>
 <li title="" data-original-title=""></li>
@@ -119,6 +120,7 @@ A infra-estrutura disponível está em atualização.
 No LABP2D, parte significativa dos projetos desenvolvidos conta com código-fonte disponível para consulta e download através do link acima.
 </ul>
 <br>
+<hr>
 
 ## Endereço
 
