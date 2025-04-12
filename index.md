@@ -100,29 +100,24 @@
 
 <ul>
 <li title="" data-original-title=""></li>
-
 <li title="" data-original-title=""></li>
-  
 <li title="" data-original-title=""></li>
-
 <li title="" data-original-title=""></li>
-
 <li title="" data-original-title="">
-<ul>
-<li title="" data-original-title=""> <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> 
-</li>
-</ul>
-</li>
-
+<li title="" data-original-title=""> <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> </li>
 <li title="" data-original-title=""></li>
-  
 </ul>
+
 
 A infra-estrutura disponível está em atualização.
+</ul>
 
 ## Código-Fonte <a href="https://paullollima.github.io/" target="" rel="noopener"></a>
 
+</ul>
+
 No LABP2D, parte significativa dos projetos desenvolvidos conta com código-fonte disponível para consulta e download através do link acima.
+
 
 ## Endereço
 
