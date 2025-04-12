@@ -36,11 +36,9 @@
 <ul>
 <li><a href="http://lattes.cnpq.br/3752298390911021" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7634-6823" target="_blank" rel="noopener">ORCID Code</a> - <a href="mailto:mauricio.pillon@udesc.br">Email</a>
 </li>
-</ul>
 
 </ul>
-</li>
-
+<br>
 <b>Colaboradores membros da Equipe:</b>
 <ul>
 <li>Nome( - <a href="" target="_blank" rel="noopener">CV Lattes</a> - <a href="" target="_blank" rel="noopener">ORCID Code</a> - )
