@@ -113,6 +113,7 @@ A infra-estrutura disponível está em atualização.
 
 No LABP2D, parte significativa dos projetos desenvolvidos conta com código-fonte disponível para consulta e download através do link acima.
 </ul>
+<li>
 
 ## Endereço
 
