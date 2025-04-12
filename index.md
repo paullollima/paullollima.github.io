@@ -1,7 +1,6 @@
 # LabP2D
 <p>Criado em Julho de 2013, o Laboratório de Processamento Paralelo e Distribuído (LabP2D) oferece recursos humanos e materiais para realização de atividades de pesquisa, ensino e extensão. Os serviços oferecidos e pesquisas realizadas no LabP2D tem como temas principais o gerenciamento de Nuvens Computacionais, Névoa Computacional, Internet das Coisas e Programação Paralela. Atualmente, o LabP2D possui uma nuvem computacional privada, baseada em OpenStack, que hospeda diversos projetos de outros departamentos da instituição. Ainda, parcerias institucionais entre grupos de pesquisa brasileiros e franceses utilizam a nuvem para realização de experimentos.
 <br>
-
 <hr>
 </p>
 
@@ -17,7 +16,7 @@
 </p>
 <hr>
 
-## People
+## Pessoal
 
 <ul>
 <li>Guilherme Piêgas Koslovski (Coordenador)
@@ -36,9 +35,8 @@
 <ul>
 <li><a href="http://lattes.cnpq.br/3752298390911021" target="_blank" rel="noopener">CV Lattes</a> - <a href="https://orcid.org/0000-0001-7634-6823" target="_blank" rel="noopener">ORCID Code</a> - <a href="mailto:mauricio.pillon@udesc.br">Email</a>
 </li>
-
 </ul>
-<br>
+
 <b>Colaboradores membros da Equipe:</b>
 <ul>
 <li>Nome( - <a href="" target="_blank" rel="noopener">CV Lattes</a> - <a href="" target="_blank" rel="noopener">ORCID Code</a> - )
@@ -46,7 +44,6 @@
 
 <li>Nome( - <a href="" target="_blank" rel="noopener">CV Lattes</a> - <a href="" target="_blank" rel="noopener">ORCID Code</a> - )
 </li>
-
 </ul>
 
 <b>Estudantes de Pós-Graduação (Doutorado):</b>
@@ -93,8 +90,9 @@
 </ul>
 
 ## Parceiros
-<ul>
 <p> </p>
+<ul>
+<li></li>
 </ul>
 
 ## Recursos do Laboratório
@@ -109,18 +107,10 @@
 </ul>
 
 A infra-estrutura disponível está em atualização.
-</ul>
 
-## Código-Fonte
+## <a href="https://paullollima.github.io/" target="" rel="noopener">Código-Fonte</a>
 
-<a href="https://paullollima.github.io/" target="" rel="noopener"></a>
-</ul>
-
-<br>
 No LABP2D, parte significativa dos projetos desenvolvidos conta com código-fonte disponível para consulta e download através do link acima.
-</ul>
-<br>
-<hr>
 
 ## Endereço
 
