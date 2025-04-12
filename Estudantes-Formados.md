@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Estrudantes Formados
+## Estudantes Formados
 
 <ul>
 <li></li>  
