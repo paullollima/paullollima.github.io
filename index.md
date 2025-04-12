@@ -70,9 +70,6 @@
 
 <a href="https://paullollima.github.io/_site/index.html" target="" rel="noopener">Estudantes Formados</a>.
 
-
-<br>
-
 ## Projetos Relacionados
 
 <p>Os projetos de pesquisa se estruturam em torno dos seguintes eixos temáticos, sem se restringir a eles:</p>
