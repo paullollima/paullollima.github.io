@@ -96,7 +96,6 @@
 
 ## Recursos do Laboratório
 
-<ul>
 <li title="" data-original-title=""></li>
 <li title="" data-original-title=""></li>
 <li title="" data-original-title=""></li>
@@ -109,7 +108,9 @@
 A infra-estrutura disponível está em atualização.
 
 
-## Código-Fonte <a href="https://paullollima.github.io/" target="" rel="noopener"></a>
+## Código-Fonte
+
+<a href="https://paullollima.github.io/" target="" rel="noopener"></a>
 
 
 
