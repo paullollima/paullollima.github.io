@@ -74,6 +74,7 @@
 <a href="https://paullollima.github.io/_site/index.html" target="" rel="noopener">Estudantes Formados</a>.
 </ul>
 
+<br>
 ## Projetos Relacionados
 
 <p>Os projetos de pesquisa se estruturam em torno dos seguintes eixos temáticos, sem se restringir a eles:</p>
@@ -104,16 +105,20 @@
 <li title="" data-original-title=""></li>
 <li title="" data-original-title=""> <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a> </li>
 <li title="" data-original-title=""></li>
+</ul>
 
 A infra-estrutura disponível está em atualização.
+</ul>
 
 ## Código-Fonte
 
 <a href="https://paullollima.github.io/" target="" rel="noopener"></a>
+</ul>
 
+<br>
 No LABP2D, parte significativa dos projetos desenvolvidos conta com código-fonte disponível para consulta e download através do link acima.
 </ul>
-<li>
+<br>
 
 ## Endereço
 
