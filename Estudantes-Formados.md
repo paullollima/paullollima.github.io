@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Former Students
+## Estrudantes Formados
 
 <ul>
 <li></li>  
