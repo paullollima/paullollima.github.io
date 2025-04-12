@@ -72,7 +72,7 @@
 </ul>
 
 <a href="https://paullollima.github.io/_site/index.html" target="" rel="noopener">Estudantes Formados</a>.
-</ul>
+
 
 <br>
 ## Projetos Relacionados
