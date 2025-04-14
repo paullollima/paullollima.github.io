@@ -3,25 +3,3 @@ description: Laboratório de Processamento Paralelo e Distribuído
 theme: jekyll-theme-leap-day
 show_downloads: false
 google_analytics: 
-
-# Pasta de destino do site compilado
-destination: _site
-
-# Idiomas suportados (você pode controlar com links manuais)
-languages:
-  pt: "Português"
-  en: "English"
-
-# Excluir a pasta _site e outros arquivos que não devem ser tratados como conteúdo
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - _site
-
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
