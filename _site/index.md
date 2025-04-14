@@ -2,7 +2,7 @@
 
 <h1>LabP2D</h1>
 
-<p><a href="index_en.md">English Version</a></p>
+<p><a href="https://paullollima.github.io/_site/index_en.html">English Version</a></p>
 
 
 <p>
