@@ -2,6 +2,9 @@
 
 <h1>LabP2D</h1>
 
+<p><a href="labp2d-en.html">English Version</a></p>
+
+
 <p>
   Criado em Julho de 2013, o Laboratório de Processamento Paralelo e Distribuído (LabP2D) oferece recursos humanos e materiais para realização de atividades de pesquisa, ensino e extensão. Os serviços oferecidos e pesquisas realizadas no LabP2D têm como temas principais o gerenciamento de Nuvens Computacionais, Névoa Computacional, Internet das Coisas e Programação Paralela.
 </p>
@@ -78,7 +81,16 @@
   <li>Nome</li>
 </ul>
 
-<b>Estudantes de Graduação:</b>
+<b>Estudantes de Graduação TCC:</b>
+<ul>
+  <li>Nome</li>
+  <li>Nome</li>
+  <li>Nome</li>
+  <li>Nome</li>
+  <li>Nome</li>
+</ul>
+
+<b>Estudantes de Graduação IC:</b>
 <ul>
   <li>Nome</li>
   <li>Nome</li>
@@ -133,7 +145,7 @@
 <p>
   Laboratório de Processamento Paralelo e Distribuído - LabP2D <br>
   CCT - UDESC <br>
-  Rua Paulo Malschitzki, 200 <br>
+  Rua Paulo Malschitzki, 200  Bloco F Sala 109<br>
   Zona Industrial Norte, Joinville - SC, Brasil <br>
   CEP: 89.219-710
 </p>
