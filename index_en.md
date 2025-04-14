@@ -2,7 +2,7 @@
 
 <h1>LabP2D</h1>
 
-<p><a href="index.md">Versão em Português</a></p>
+<p><a href="https://paullollima.github.io/index.md">Versão em Português</a></p>
 
 <p>
   Founded in July 2013, the Parallel and Distributed Processing Laboratory (LabP2D) provides human and material resources for conducting research, teaching, and extension activities. The services offered and research conducted at LabP2D mainly focus on Cloud Computing Management, Fog Computing, Internet of Things, and Parallel Programming.
