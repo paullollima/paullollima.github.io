@@ -799,8 +799,8 @@ header p {
   text-align: center;
 }
 #banner .button:hover {
-  background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-  background-color: #ffeca0;
+  background: linear-gradient(rgb(98, 98, 98), rgb(98, 98, 98));
+  background-color: #5f5f5f;
 }
 #banner .fork {
   position: fixed;
