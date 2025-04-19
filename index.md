@@ -97,7 +97,7 @@
   <li>Name</li>
 </ul>
 
-<a href="https://paullollima.github.io/_site/index.html" target="_blank" rel="noopener">Graduated Students</a>
+<a href="https://paullollima.github.io/graduatedstudents.md" target="_blank" rel="noopener">Graduated Students</a>
 
 <hr>
 
