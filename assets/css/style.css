@@ -156,7 +156,7 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: <!--url(https://paullollima.github.io/img/background-gray.png)--> #e30909;
+  background: <!--url(../img/background-gray.png)--> #e30909;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
