@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Estudantes Formados
+## Graduated Students
 
 <ul>
 <li></li>  
