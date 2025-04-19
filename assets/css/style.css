@@ -190,8 +190,8 @@ header {
   margin-right:-382px;
   position: fixed;
   top: 115px;
-  /*background: #0011ff;*/
-  background: url(../img/background.png) /*rgba(0, 17, 255, 0.8);  Azul com 80% de opacidade */
+  background: #1E90FF;
+  
    
   border: 1px solid #f0b500;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
