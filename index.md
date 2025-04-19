@@ -2,13 +2,6 @@
 
 <h1>LabP2D</h1>
 
-<header id="header">
-    <div class="container-fluid">
-
-      <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto">LabP2D</a></h1>
-      </div>
-
 <p>
   Founded in July 2013, the Parallel and Distributed Processing Laboratory (LabP2D) provides human and material resources for conducting research, teaching, and extension activities. The services offered and research conducted at LabP2D mainly focus on Cloud Computing Management, Fog Computing, Internet of Things, and Parallel Programming.
 </p>
