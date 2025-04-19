@@ -149,5 +149,5 @@
 </p>
 
 <p>
-  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://paullollima.github.io/img/logo6.png" alt="LabP2D Logo" />  <!--img/logo2.png-->
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://paullollima.github.io/img/logo7.png" alt="LabP2D Logo" />  <!--img/logo2.png-->
 </p>
