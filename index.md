@@ -84,12 +84,13 @@
 
 <b>Undergraduate Students (Final Project):</b>
 <ul>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
+  <li><a href="https://github.com/gustavodiel">Gustavo Diel</a></li>
+  <li><a href="https://github.com/Br3nOT">Bruno Bastos Rodrigues</a></li>
+  <li><a href="https://github.com/henriquemarlon">Henrique Marlon</a></li>
+  <li><a href="https://github.com/nicolasqbert">Nicolas Peter Lane</a></li>
+  <li><a href="https://github.com/renanmoretto">Renan Moretto Bernardi</a></li>
 </ul>
+
 
 <b>Undergraduate Students (Scientific Initiation):</b>
 <ul>
