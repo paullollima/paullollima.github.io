@@ -82,7 +82,7 @@
 </ul>
 
 
-<b>Undergraduate Students (Final Project):</b>
+<b>Undergraduate Students (Final Project in progress):</b>
 <ul>
   <li><a href="https://github.com/gustavodiel">Gustavo Diel</a></li>
   <li><a href="https://github.com/Br3nOT">Bruno Bastos Rodrigues</a></li>
