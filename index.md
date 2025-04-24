@@ -70,7 +70,7 @@
   <li>Name</li>
 </ul>
 
-<b>Master’s Students:</b>
+<b>Master’s Students (in progress)</b>
 <ul>
   <li><a href="https://github.com/adneiwd">Adnei Willian Donatti</a></li>
   <li><a href="https://github.com/alinesm">Aline da Silva Moreira</a></li>
