@@ -72,11 +72,15 @@
 
 <b>Master’s Students:</b>
 <ul>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
+  <li><a href="https://github.com/adneiwd">Adnei Willian Donatti</a></li>
+  <li><a href="https://github.com/alinesm">Aline da Silva Moreira</a></li>
+  <li><a href="https://github.com/danielcamargo">Daniel Scheidemantel Camargo</a></li>
+  <li><a href="https://github.com/leonardoacr">Leonardo Rosa Rodrigues</a></li>
+  <li><a href="https://github.com/lucascamelo">Lucas Camelo Casagrande</a></li>
+  <li><a href="https://github.com/vilsonmoro">Vilson Moro</a></li>
+  <li><a href="https://github.com/tathianaduarte">Tathiana Duarte de Amarantes</a></li>
 </ul>
+
 
 <b>Undergraduate Students (Final Project):</b>
 <ul>
