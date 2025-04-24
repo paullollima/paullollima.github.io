@@ -193,13 +193,13 @@ header {
   background: #007ff5;
   
    
-  border: 1px solid #f0b500;
+  border: 1px solid #1000f0;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #dba500;
+    border: 1px solid #a9a9a9;
     background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
