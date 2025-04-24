@@ -94,12 +94,16 @@
 
 <b>Undergraduate Students (Scientific Initiation):</b>
 <ul>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
+  <li><a href="https://github.com/guixavier77">Guilherme Xavier de Carvalho</a></li>
+  <li><a href="https://github.com/GustavoSilvaNogueira">Gustavo Silva</a></li>
+  <li><a href="https://github.com/kerolayne">Kerolayne de Souza Vieira de Oliveira</a></li>
+  <li><a href="https://github.com/kleitonp">Kleiton Pereira</a></li>
+  <li><a href="https://github.com/lucas-litter">Lucas Litter Mentz</a></li>
+  <li><a href="https://github.com/nicolasqbert">Nicolas Peter Lane</a></li>
+  <li><a href="https://github.com/renatotanaka">Renato Tanaka</a></li>
+  <li><a href="https://github.com/wiltonjaciel">Wilton Jaciel Loch</a></li>
 </ul>
+
 
 <a href="https://paullollima.github.io/GraduatedStudents.html" target="_blank" rel="noopener">Graduated Students</a>
 
