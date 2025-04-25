@@ -105,7 +105,7 @@
 </ul>
 
 
-<a href="https://paullollima.github.io/GraduatedStudents.html" target="_blank" rel="noopener">Graduated Students</a>
+<a href="https://paullollima.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a>
 
 <hr>
 
@@ -142,7 +142,7 @@
 
 <hr>
 
-<h2><a href="https://paullollima.github.io/source-code.html" target="_blank" rel="noopener">Source Code</a></h2>
+<h2><a href="https://paullollima.github.io/source-code.html" target="" rel="noopener">Source Code</a></h2>
 <p>A significant portion of the projects developed at LabP2D have source code available for consultation and download via the link above.</p>
 
 <hr>
