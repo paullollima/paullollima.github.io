@@ -22,15 +22,16 @@ layout: default
 <li><a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=A4212D88EA4ADC8A795E3BFC8C19C553.buscatextual_0#ProjetosPesquisa" target="_blank" rel="noopener">Mechanisms for Virtual Infrastructure Allocation Based on Machine Learning and Accelerated by GPUs (2019 - Present)</a>: This project explores the use of machine learning algorithms to optimize the allocation of virtual infrastructures (e.g., virtual machines, containers, routers) in real-world cloud environments. The research focuses on leveraging Graphics Processing Units (GPUs) to support large-scale scenarios and improve the efficiency of resource allocation. 
 </li>
 <br>
-
-
-
-
-
 </ul>
 
 ### Charles Christian Miers
 <ul>
+
+<li><a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=FC3479D701B91256D6473154B353F55D.buscatextual_0#ProjetosPesquisa" target="_blank" rel="noopener">Secure Federated Identity Management: Enhancing and Extending the SPIFFE Architecture (2021 - Present)</a>: This project investigates improvements to the Secure Production Identity Framework for Everyone (SPIFFE), an open standard for securely identifying software systems in dynamic and heterogeneous environments. It focuses on extending SPIFFE/SPIRE capabilities in terms of security, performance, and functionality. Key areas of interest include credential delegation using Transitive Identity, and the integration of SPIFFE with external authentication systems such as OAuth, as well as incorporating attestation data into SPIFFE credentials as they are issued or updated.
+</li>
+<br>
+
+
 
 </ul>
 
