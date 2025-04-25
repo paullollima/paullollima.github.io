@@ -119,12 +119,8 @@
   <li>Distributed Systems and Parallel Programming</li>
 </ul>
 
-<hr>
-
 <h2><a href="https://paullollima.github.io/Related Projects.html" target="" rel="noopener">Related Projects</a></h2>
 <p>A significant portion of the projects developed at LabP2D have source code available for consultation and download via the link above.</p>
-
-<hr>
 
 <hr>
 
