@@ -3,11 +3,8 @@
 ### Guilherme Piêgas Koslovski
 <ul>
 
-<li><a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=A4212D88EA4ADC8A795E3BFC8C19C553.buscatextual_0#ProjetosPesquisa" target="_blank" rel="noopener">Task Orchestration and Operational Efficiency Optimization Based on Data Analysis (2025 - Present)</a>: This research focuses on the orchestration of tasks and optimization of operational efficiency using data analysis techniques. The goal is to improve the performance and resource allocation in operational environments. Dev: <a href="https://github.com/guilherme-koslovski" target="_blank" rel="noopener">Guilherme Piêgas Koslovski</a>.</li>
-
-
-<li><a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=A4212D88EA4ADC8A795E3BFC8C19C553.buscatextual_0#ProjetosPesquisa" target="_blank" rel="noopener">Task Orchestration and Operational Efficiency Optimization Based on Data Analysis (2025 - Present)</a>: This research focuses on the orchestration of tasks and optimization of operational efficiency using data analysis techniques. The goal is to improve the performance and resource allocation in operational environments. Dev: <a href="https://github.com/guilherme-koslovski" target="_blank" rel="noopener">Guilherme Piêgas Koslovski</a>.</li>
-
+<li><a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=A4212D88EA4ADC8A795E3BFC8C19C553.buscatextual_0#ProjetosPesquisa" target="_blank" rel="noopener">Task Orchestration and Operational Efficiency Optimization Based on Data Analysis (2025 - Present)</a>: This research focuses on the orchestration of tasks and optimization of operational efficiency using data analysis techniques. The goal is to improve the performance and resource allocation in operational environments. 
+</li>
 
 <li><a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=A4212D88EA4ADC8A795E3BFC8C19C553.buscatextual_0#ProjetosPesquisa" target="_blank" rel="noopener">Data Analysis for Identifying and Preventing the Occurrence of Flatness Anomalies (2024 - Present)</a>: This research project focuses on data analysis techniques to detect and prevent anomalies related to flatness in industrial processes. The goal is to develop methods that can improve quality control and prevent defects in production. 
 </li>
