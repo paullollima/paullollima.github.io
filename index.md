@@ -64,6 +64,7 @@
   <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
   <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
 </ul>
+<br>
 
 <b>PhD Students:</b>
 <ul>
@@ -105,7 +106,7 @@
 </ul>
 
 
-<a href="https://paullollima.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a>
+<b> <a href="https://paullollima.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
 
 <hr>
 
