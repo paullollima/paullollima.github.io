@@ -48,6 +48,24 @@ layout: default
 ### Maurício Aronne Pillon
 <ul>
 
+<li><a href="http://lattes.cnpq.br/3752298390911021" target="_blank" rel="noopener">Intelligent Monitoring System Using Edge-Cloud Continuum (ECC) Applied to WEG Manufacturing Plants (2025 - Present)</a>: This project investigates intelligent monitoring system architectures based on the Edge-Cloud Continuum (ECC) paradigm, applied to WEG's manufacturing environments. The goal is to study and develop efficient, scalable, and real-time monitoring solutions that leverage the combined capabilities of edge and cloud computing to optimize industrial operations.
+</li>
+<br>
+
+<li><a href="http://lattes.cnpq.br/3752298390911021" target="_blank" rel="noopener">Decentralized and Scalable Platform Applied to International Trade Supply Chains (2024 - Present)</a>: This project aims to design a decentralized and scalable platform based on Decentralized Identifiers (DiD) and Self-Sovereign Identity (SSI), tailored to supply chain processes in geographically distributed international trade. The solution seeks to enhance security, transparency, and trust across stakeholders.
+</li>
+<br>
+
+<li><a href="http://lattes.cnpq.br/3752298390911021" target="_blank" rel="noopener">Massively Decentralized Systems: Trends, Technologies, Applications, and Tools (2023 - Present)</a>: This research focuses on the conception of prototypes and scientific documentation related to massively decentralized systems that underpin the modern digital society. Topics include Decentralized Identifiers (DID), Distributed Ledger Technology (DLT), and Non-Fungible Tokens (NFT), aiming to address the evolving interactions between people, devices, and services.
+</li>
+<br>
+
+<li><a href="http://lattes.cnpq.br/3752298390911021" target="_blank" rel="noopener">
+BP Conex: Smart Platform for Conversational Marketing, Loyalty, and Sales for SMEs (2024 - Present)
+</a>: This development project aims to create an intelligent platform for conversational marketing, customer loyalty, and sales tailored to small and medium-sized enterprises (SMEs). It integrates seamlessly with major POS and ERP systems and uses artificial intelligence (AI) to manage and personalize customer interactions. Featuring recommendation algorithms and an assisted co-pilot model, the tool helps users—especially non-technical ones—design and implement marketing campaigns with ease. Technologies involved include AI, HPC, Web Front-end, SaaS, and Edge-Cloud Continuum.
+</li>
+
+<br>
 
 </ul>
 <br>
