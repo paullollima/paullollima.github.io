@@ -121,6 +121,13 @@
 
 <hr>
 
+<h2><a href="https://paullollima.github.io/Related Projects.html" target="" rel="noopener">Related Projects</a></h2>
+<p>A significant portion of the projects developed at LabP2D have source code available for consultation and download via the link above.</p>
+
+<hr>
+
+<hr>
+
 <h2>Partners</h2>
 <ul>
   <li>Institution / Research Group - (insert link)</li>
@@ -139,13 +146,6 @@
 </ul>
 
 <p>The available infrastructure is currently being updated.</p>
-
-<hr>
-
-<h2><a href="https://paullollima.github.io/source-code.html" target="" rel="noopener">Source Code</a></h2>
-<p>A significant portion of the projects developed at LabP2D have source code available for consultation and download via the link above.</p>
-
-<hr>
 
 <h2>Address</h2>
 <p>
