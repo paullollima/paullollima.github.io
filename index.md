@@ -148,6 +148,7 @@
   Parallel and Distributed Processing Laboratory - LabP2D <br>
   CCT - UDESC <br>
   Rua Paulo Malschitzki, 200  Bloco F Sala 109<br>
+  Phone: +55473481-7998<br>
   Zona Industrial Norte, Joinville - SC, Brazil <br>
   ZIP: 89.219-710
 </p>
