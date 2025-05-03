@@ -1,5 +1,13 @@
 title: LabP2D
 description: Parallel and Distributed Processing Laboratory
-theme: jekyll-theme-leap-day
-show_downloads: false
-google_analytics: 
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Configurações específicas do Leap Day
+leap_day:
+  color_scheme: dark  # ou light
+  show_downloads: false
+
+# Google Analytics (se desejar)
+google_analytics: UA-XXXXX-Y  # Substitua pelo seu ID
