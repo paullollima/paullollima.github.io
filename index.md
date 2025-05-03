@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LabP2D - Parallel and Distributed Processing Laboratory
+title: LabP2D 
 ---
 
 <div class="header-container">
