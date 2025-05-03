@@ -37,8 +37,6 @@ title: LabP2D
     <!-- Coordenador -->
     <div class="team-member">
       <div class="member-links">
-      <h3>Guilherme Piêgas Koslovski</h3>
-      <p class="role">Coordenador</p>
         <a href="http://lattes.cnpq.br/2749773427704993" target="_blank">CV Lattes</a> | 
         <a href="https://orcid.org/0000-0003-4936-1619" target="_blank">ORCID</a> | 
         <a href="mailto:guilherme.koslovski@udesc.br">Email</a>
