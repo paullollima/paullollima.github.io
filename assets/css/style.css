@@ -328,14 +328,20 @@ nav ul a:hover {
   color: #999; 
 }
 
+/* Ajuste para o container principal */
+.wrapper {
+  padding-bottom: 100px; /* Espaço para o footer */
+}
+
+/* Ajuste a posição do footer */
 footer {
-  width:180px;
-  position: relative;
-  left:50%;
-  margin-left:-530px;
-  bottom:20px;
-  text-align: right;
-  line-height: 16px;
+  width: 100%;
+  left: 0;
+  margin-left: 0;
+  text-align: center;
+  padding: 20px 0;
+  background: #fbfbfb;
+  border-top: 1px solid #cbcbcb;
 }
 
 @media print, screen and (max-width: 1060px) {
