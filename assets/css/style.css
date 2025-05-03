@@ -523,12 +523,6 @@ footer {
   margin-left: 0; /* Remove margem do primeiro link */
 }
 
-.team-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px; /* Espaço entre os membros */
-}
-
 .team-member {
   flex: 1;
   min-width: 200px;
