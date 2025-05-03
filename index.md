@@ -160,6 +160,7 @@ permalink: /
 
 <div class="contact-section">
   <h2>Contact</h2>
+  <ul class="contact">
   <address>
     <strong>Parallel and Distributed Processing Laboratory - LabP2D</strong><br>
     CCT - UDESC<br>
