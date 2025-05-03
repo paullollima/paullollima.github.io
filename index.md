@@ -24,9 +24,9 @@ title: LabP2D
 
 <div class="mission-section">
   <h2>Nossa Missão</h2>
-  <blockquote>
+  <p>
     Pesquisar e desenvolver projetos nas áreas de Computação em Nuvem, Fog Computing, Internet das Coisas, Sistemas Distribuídos e Programação Paralela.
-  </blockquote>
+  </p>
 </div>
 
 <div class="team-section">
