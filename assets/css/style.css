@@ -162,7 +162,7 @@ header {
   right:50%;
   height: 50px;
   margin-right:-382px;
-  position: center;
+  position: fixed;
   top: 115px;
   background: #007ff5;
   border: 1px solid #1000f0;
