@@ -385,3 +385,33 @@ header {
     width:auto;
   }
 }
+
+/* ===== RESTAURAR MENU LATERAL ORIGINAL ===== */
+nav {
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left: 50%;
+  margin-left: -580px;  /* Ajuste esta margem conforme necessário */
+  text-align: right;
+  z-index: 10;
+}
+
+nav ul {
+  list-style: none;
+  list-style-image: none;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+nav ul li {
+  padding: 5px 0px;
+  line-height: 16px;
+}
+
+/* Ajuste para telas menores */
+@media print, screen and (max-width: 1060px) {
+  nav {
+    display: none; /* Mantém o comportamento original de esconder em telas pequenas */
+  }
+}
