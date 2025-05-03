@@ -134,8 +134,9 @@ title: LabP2D
     <li>Suporte: <a href="https://www.nvidia.com" target="_blank">NVIDIA</a></li>
     <li>Ambiente para experimentos em IoT</li>
   </ul>
-  <a href="/agendamento.html" class="btn btn-primary">Agende um horário</a>
 </div>
+
+<a href="/agendamento.html" class="btn btn-primary">Agende um horário</a>
 
 <div class="contact-section">
   <h2>Contato</h2>
