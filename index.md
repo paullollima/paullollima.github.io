@@ -44,7 +44,7 @@ title: LabP2D
         <a href="mailto:guilherme.koslovski@udesc.br">Email</a>
       </div>
     </div>
-
+    <!-- Professor -->
     <div class="team-member">
       <h3>Charles Christian Miers</h3>
       <p class="role">Professor</p>
@@ -54,7 +54,7 @@ title: LabP2D
         <a href="mailto:charles.miers@udesc.br">Email</a>
       </div>
     </div>
-
+    <!-- Professor -->
     <div class="team-member">
       <h3>Maurício Aronne Pillon</h3>
       <p class="role">Professor</p>
