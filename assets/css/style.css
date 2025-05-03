@@ -522,12 +522,3 @@ footer {
 .member-links a:first-child {
   margin-left: 0; /* Remove margem do primeiro link */
 }
-
-.team-member {
-  flex: 1;
-  min-width: 200px;
-  background: #fff;
-  padding: 15px;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
