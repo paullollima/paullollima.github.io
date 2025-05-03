@@ -6,7 +6,6 @@ title: LabP2D
 <div class="header-container">
   <h1>LabP2D</h1>
   <p class="subtitle">Parallel and Distributed Processing Laboratory</p>
-  <a href="/agendamento.html" class="btn btn-primary">Agende uma Reunião</a>
 </div>
 
 <div class="content-section">
@@ -136,6 +135,7 @@ title: LabP2D
     <li>Suporte: <a href="https://www.nvidia.com" target="_blank">NVIDIA</a></li>
     <li>Ambiente para experimentos em IoT</li>
   </ul>
+  <a href="/agendamento.html" class="btn btn-primary">Agende um horário</a>
 </div>
 
 <div class="contact-section">
