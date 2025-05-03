@@ -43,7 +43,6 @@ title: LabP2D
       </div>
     </div>
     <!-- Professor -->
-    <div class="team-member">
       <h3>Charles Christian Miers</h3>
       <p class="role">Professor</p>
       <div class="member-links">
@@ -51,7 +50,6 @@ title: LabP2D
         <a href="https://orcid.org/0000-0002-1976-0478" target="_blank">ORCID</a> | 
         <a href="mailto:charles.miers@udesc.br">Email</a>
       </div>
-    </div>
     <!-- Professor -->
     <div class="team-member">
       <h3>Maurício Aronne Pillon</h3>
