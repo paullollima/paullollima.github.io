@@ -498,3 +498,42 @@ footer {
     width:auto;
   }
 }
+
+/* Adicione estas regras ao seu CSS existente */
+
+.team-member {
+  margin-bottom: 20px; /* Espaço entre membros da equipe */
+}
+
+.team-member h3 {
+  margin-bottom: 5px; /* Reduz o espaçamento abaixo do nome */
+}
+
+.member-links {
+  margin-top: 0; /* Remove margem superior desnecessária */
+}
+
+.member-links a {
+  margin: 0 3px; /* Espaçamento controlado entre links */
+  padding: 2px 5px; /* Melhora a área clicável */
+  display: inline-block;
+}
+
+.member-links a:first-child {
+  margin-left: 0; /* Remove margem do primeiro link */
+}
+
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Espaço entre os membros */
+}
+
+.team-member {
+  flex: 1;
+  min-width: 200px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}

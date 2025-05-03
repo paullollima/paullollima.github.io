@@ -36,6 +36,8 @@ title: LabP2D
   <div class="team-grid">
     <!-- Coordenador -->
     <div class="team-member">
+      <h3>Guilherme Piêgas Koslovski</h3>
+      <p class="role">Coordenador</p>
       <div class="member-links">
         <a href="http://lattes.cnpq.br/2749773427704993" target="_blank">CV Lattes</a> | 
         <a href="https://orcid.org/0000-0003-4936-1619" target="_blank">ORCID</a> | 
@@ -43,6 +45,7 @@ title: LabP2D
       </div>
     </div>
     <!-- Professor -->
+    <div class="team-member">
       <h3>Charles Christian Miers</h3>
       <p class="role">Professor</p>
       <div class="member-links">
@@ -50,6 +53,7 @@ title: LabP2D
         <a href="https://orcid.org/0000-0002-1976-0478" target="_blank">ORCID</a> | 
         <a href="mailto:charles.miers@udesc.br">Email</a>
       </div>
+    </div>
     <!-- Professor -->
     <div class="team-member">
       <h3>Maurício Aronne Pillon</h3>
