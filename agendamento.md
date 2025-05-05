@@ -56,7 +56,7 @@ title: Agendamento LabP2D
 
 <!-- Link para voltar -->
 <div style="text-align: center; margin-top: 30px;">
-  <a href="/" class="btn-voltar">← Voltar para a página principal</a>
+  <a href="/" class="btn-voltar"> Voltar para a página principal</a>
 </div>
 
 <style>
