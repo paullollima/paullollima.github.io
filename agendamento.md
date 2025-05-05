@@ -4,61 +4,71 @@ title: Agendamento LabP2D
 ---
 
 
-<h1>Agende um recurso</h1>
 
-<form id="agendamentoForm">
-  <label for="nome">Seu Nome:</label><br>
-  <input type="text" id="nome" required><br><br>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Agendamento de Recursos</title>
+</head>
+<body>
+  <h1>Agende um Recurso</h1>
+  <form id="agendamentoForm">
+    <label for="nome">Seu Nome:</label><br>
+    <input type="text" id="nome" required><br><br>
 
-  <label for="titulo">Recurso a Agendar:</label><br>
-  <input type="text" id="titulo" required><br><br>
+    <label for="titulo">Recurso a Agendar:</label><br>
+    <input type="text" id="titulo" required><br><br>
 
-  <label for="inicio">Data e Hora de Início:</label><br>
-  <input type="datetime-local" id="inicio" required><br><br>
+    <label for="inicio">Data e Hora de Início:</label><br>
+    <input type="datetime-local" id="inicio" required><br><br>
 
-  <label for="fim">Data e Hora de Término:</label><br>
-  <input type="datetime-local" id="fim" required><br><br>
+    <label for="fim">Data e Hora de Término:</label><br>
+    <input type="datetime-local" id="fim" required><br><br>
 
-  <button type="submit">Agendar</button>
-</form>
+    <button type="submit">Agendar</button>
+  </form>
 
-<p id="mensagem"></p>
+  <p id="mensagem"></p>
 
-<script>
-  const form = document.getElementById('agendamentoForm');
-  const mensagem = document.getElementById('mensagem');
+  <script>
+    const form = document.getElementById('agendamentoForm');
+    const mensagem = document.getElementById('mensagem');
 
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
 
-    const dados = {
-      titulo: document.getElementById('titulo').value,
-      inicio: document.getElementById('inicio').value,
-      fim: document.getElementById('fim').value,
-      descricao: "Agendado por " + document.getElementById('nome').value
-    };
+      const dados = {
+        titulo: document.getElementById('titulo').value,
+        inicio: document.getElementById('inicio').value,
+        fim: document.getElementById('fim').value,
+        descricao: "Agendado por " + document.getElementById('nome').value
+      };
 
-    try {
-      const resposta = await fetch('https://script.google.com/macros/s/AKfycbwHVXcy8HB4TXJMlEO49zUsTTszJnrsg2hvxVbxvWM9-sx5qe4WU9GVEV4EJHqly2lE/exec', {
-        method: 'POST',
-        body: JSON.stringify(dados),
-        headers: { 'Content-Type': 'application/json' }
-      });
+      try {
+        const resposta = await fetch('https://script.google.com/macros/s/AKfycbwHVXcy8HB4TXJMlEO49zUsTTszJnrsg2hvxVbxvWM9-sx5qe4WU9GVEV4EJHqly2lE/exec', {
+          method: 'POST',
+          body: JSON.stringify(dados),
+          headers: { 'Content-Type': 'application/json' }
+        });
 
-      const resultado = await resposta.json();
+        const resultado = await resposta.json();
 
-      if (resultado.status === 'sucesso') {
-        mensagem.innerText = "Evento agendado com sucesso!";
-        form.reset();
-      } else {
-        mensagem.innerText = "Erro: " + resultado.mensagem;
+        if (resultado.status === 'sucesso') {
+          mensagem.innerText = "✅ Evento agendado com sucesso!";
+          form.reset();
+        } else {
+          mensagem.innerText = "⚠️ Erro: " + resultado.mensagem;
+        }
+
+      } catch (erro) {
+        mensagem.innerText = "❌ Erro ao conectar com o servidor.";
+        console.error(erro);
       }
-
-    } catch (erro) {
-      mensagem.innerText = "Erro ao conectar com o servidor.";
-    }
-  });
-</script>
+    });
+  </script>
+</body>
+</html>
 
 
 <!-- 
