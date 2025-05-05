@@ -39,7 +39,7 @@ title: Agendamento LabP2D
     };
 
     try {
-      const resposta = await fetch('SUA_URL_DO_SCRIPT_AQUI', {
+      const resposta = await fetch('https://script.google.com/macros/s/AKfycbwHVXcy8HB4TXJMlEO49zUsTTszJnrsg2hvxVbxvWM9-sx5qe4WU9GVEV4EJHqly2lE/exec', {
         method: 'POST',
         body: JSON.stringify(dados),
         headers: { 'Content-Type': 'application/json' }
