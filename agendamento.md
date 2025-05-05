@@ -3,29 +3,88 @@ layout: default
 title: Agendamento LabP2D
 ---
 
+
+<h1>Agende um recurso</h1>
+
+<form id="agendamentoForm">
+  <label for="nome">Seu Nome:</label><br>
+  <input type="text" id="nome" required><br><br>
+
+  <label for="titulo">Recurso a Agendar:</label><br>
+  <input type="text" id="titulo" required><br><br>
+
+  <label for="inicio">Data e Hora de Início:</label><br>
+  <input type="datetime-local" id="inicio" required><br><br>
+
+  <label for="fim">Data e Hora de Término:</label><br>
+  <input type="datetime-local" id="fim" required><br><br>
+
+  <button type="submit">Agendar</button>
+</form>
+
+<p id="mensagem"></p>
+
+<script>
+  const form = document.getElementById('agendamentoForm');
+  const mensagem = document.getElementById('mensagem');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const dados = {
+      titulo: document.getElementById('titulo').value,
+      inicio: document.getElementById('inicio').value,
+      fim: document.getElementById('fim').value,
+      descricao: "Agendado por " + document.getElementById('nome').value
+    };
+
+    try {
+      const resposta = await fetch('SUA_URL_DO_SCRIPT_AQUI', {
+        method: 'POST',
+        body: JSON.stringify(dados),
+        headers: { 'Content-Type': 'application/json' }
+      });
+
+      const resultado = await resposta.json();
+
+      if (resultado.status === 'sucesso') {
+        mensagem.innerText = "Evento agendado com sucesso!";
+        form.reset();
+      } else {
+        mensagem.innerText = "Erro: " + resultado.mensagem;
+      }
+
+    } catch (erro) {
+      mensagem.innerText = "Erro ao conectar com o servidor.";
+    }
+  });
+</script>
+
+
+<!-- 
 <div class="form-container">
   <h2>Agende uma Reunião com o LabP2D</h2>
   
   <form id="agendamentoForm">
-    <!-- Campo Nome -->
+    <!-- Campo Nome ->
     <div class="form-group">
       <label for="nome">Nome Completo*</label>
       <input type="text" id="nome" name="nome" required>
     </div>
     
-    <!-- Campo Email -->
+    <!-- Campo Email ->
     <div class="form-group">
       <label for="email">Email Institucional*</label>
       <input type="email" id="email" name="email" required>
     </div>
     
-    <!-- Campo Data/Horário -->
+    <!-- Campo Data/Horário ->
     <div class="form-group">
       <label for="data">Data e Horário*</label>
       <input type="datetime-local" id="data" name="data" required>
     </div>
     
-    <!-- Campo Tipo de Reunião -->
+    <!-- Campo Tipo de Reunião ->
     <div class="form-group">
       <label for="tipo">Tipo de Reunião*</label>
       <select id="tipo" name="tipo" required>
@@ -37,24 +96,24 @@ title: Agendamento LabP2D
       </select>
     </div>
     
-    <!-- Campo Mensagem -->
+    <!-- Campo Mensagem ->
     <div class="form-group">
       <label for="mensagem">Detalhes Adicionais</label>
       <textarea id="mensagem" name="mensagem" rows="4" placeholder="Descreva brevemente o propósito da reunião"></textarea>
     </div>
     
-    <!-- Botão de Envio -->
+    <!-- Botão de Envio ->
     <button type="submit" class="btn-agendar">
       <span class="submit-text">Solicitar Agendamento</span>
       <span class="loading-icon" style="display:none;">⌛ Enviando...</span>
     </button>
     
-    <!-- Mensagens de Status -->
+    <!-- Mensagens de Status ->
     <div id="formStatus" class="form-status" style="display:none;"></div>
   </form>
-</div>
+</div> -->
 
-<!-- Link para voltar -->
+<!-- Link para voltar ->
 <div style="text-align: center; margin-top: 30px;">
   <a href="/" class="btn-voltar"> Voltar para a página principal</a>
 </div>
@@ -151,4 +210,5 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 5000);
   }
 });
-</script>
+</script> -->
+
